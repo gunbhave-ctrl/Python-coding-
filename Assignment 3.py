@@ -1,5 +1,5 @@
 import pandas as pd
-df =pd.read_csv("C:/Users/NMIET/Downloads/employee_data_with_duplicates_and_nulls.csv")
+df =pd.read_csv("C:/Users/HP/Downloads/employee_analysis.csv")
 print(df)
 
 print("="*60)
